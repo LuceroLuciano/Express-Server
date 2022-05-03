@@ -12,6 +12,9 @@
   },
   "author": "Lu",
   "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
   "bugs": {
     "url": "https://github.com/LuceroLuciano/Express-Server/issues"
   },
