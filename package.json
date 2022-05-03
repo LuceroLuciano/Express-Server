@@ -1,0 +1,19 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "My First Express Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuceroLuciano/Express-Server.git"
+  },
+  "author": "Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuceroLuciano/Express-Server/issues"
+  },
+  "homepage": "https://github.com/LuceroLuciano/Express-Server#readme"
+}
